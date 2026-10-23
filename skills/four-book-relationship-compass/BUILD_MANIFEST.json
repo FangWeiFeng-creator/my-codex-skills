@@ -1,0 +1,44 @@
+{
+  "tool": "cangjie-tools v2.5.0",
+  "published_hashes": {
+    "references\\capabilities\\attraction-compatibility-scan.md": "8950f5a77056fec97915392dd1fd04e8721afec25739587ebfcc9a954535573d",
+    "references\\capabilities\\communication-repair-plan.md": "d2df59530429196bd2d10967f244bd9fb1d4a9344da5e2b6e36f305fb2266a63",
+    "references\\capabilities\\conflict-repair-map.md": "5199b65e4c632c881e197cefd092dec8d7fc02a9af0746da3fb8b40cb8c3bc86",
+    "references\\capabilities\\influence-strategy-recognition.md": "88809ff69cac06c4ce86302c83fedaf1fbf1706d104d8698be3976435f1ebb26",
+    "references\\capabilities\\interdependence-commitment-check.md": "adedb55f0a7cbff825ea117d4f9073ef495f7d13dece151f57ba3f4de00ae53c",
+    "references\\capabilities\\intimate-preference-consent-dialogue.md": "f0c62d1ab8da0f0f5cc2fac3c1ca90f0d78947094b55a9c7c2de520d1699737a",
+    "references\\capabilities\\low-pressure-dating-plan.md": "93d15013dad89f02f9f83636e3ffff98efb6f277acee88e96956f0ca2776aa3c",
+    "references\\capabilities\\personal-meaning-review.md": "950fbe96fe5aef4984e0a321fa74bd23e917caf86cd309dc38eb72711b3eabc8",
+    "references\\capabilities\\relationship-cognition-audit.md": "b23cb4689be6021bd7caef311b4112e24763e196b4870719df52e3c2d5e41bc2",
+    "references\\capabilities\\relationship-evidence-triage.md": "c4a0ce4235f1695ffd678c02e8e8f360302607d45265b1a0058f3f82ecce9d82",
+    "references\\capabilities\\relationship-maintenance-plan.md": "a488e38b2b9fe460d2e16e965dceb3477d2b5991be429aa7cd74981f66dd06c4",
+    "references\\capabilities\\relationship-safety-triage.md": "4e248834addfe5b03009106e5e8144f65dd5ef86741a0220fd9505d8012a86f5",
+    "references\\capabilities\\relationship-type-love-stage.md": "b4e869043fe0b6c15c9731543768a17460f52af63a87c708e107d836467e7e59",
+    "references\\capabilities\\validation-self-esteem-plan.md": "f99978055cc91ce9b6c39c3ab94160701b644c3da321ddb22ba8b9e8a345aa54",
+    "references\\capability-index.md": "adc4f564d0bd2630373a46609e53b6fb651b7eeb3ee9b2bc96ebf8fba2949fcd",
+    "references\\cheatsheet.md": "f8bfcfa7112998460d0392d1b3a90153050eedf151cfd5fe940704fcc978ceb6",
+    "references\\glossary.md": "fe22327c0be52d20437258bcdd8d90232a95676493cc4afa90190dc08380d871",
+    "references\\overview.md": "21b7d7aae7e494def40d3c9ce8aa937c29d257c17f9d23535b9ae84345f21da1",
+    "SKILL.md": "36daf0db66ad857c7e514e9f842f709bba654a1a5fb0f27d3d1807c9c8f6dce8"
+  },
+  "note": "update/重编译前比对 published_hashes；检测到本地手改不得静默覆盖",
+  "bundle_id": "bundle.four-book-relationship-compass",
+  "bundle_sha256": "4935b071fb808cbc0f362125e76b7b69897b209a2f8fb55380a7bb76bda72c08",
+  "variant": "single",
+  "run_id": "run-20261017-211236-6d5e2a",
+  "decision": {
+    "schema_version": 1,
+    "requested": "single",
+    "selected": "single",
+    "decision_policy": "single-first-v1",
+    "skill_budget": 8,
+    "promoted_count": 5,
+    "capability_count": 14,
+    "reasons": [
+      "用户显式选择 single，auto 决策器不覆盖用户选择"
+    ],
+    "alternative": "compact pack（1 个来源路由入口 + 5 个晋级 Skill，共 6 个可发现入口）",
+    "user_confirmed": true,
+    "preserve_strategy_on_update": true
+  }
+}

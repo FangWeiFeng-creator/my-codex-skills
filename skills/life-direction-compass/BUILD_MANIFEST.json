@@ -1,0 +1,50 @@
+{
+  "tool": "cangjie-tools v2.5.0",
+  "published_hashes": {
+    "references\\capabilities\\accept-facts-then-act.md": "9f6df13f4e5300cf90c812ff3040ccfb9cd2133bda02ff103f71074bde3f9048",
+    "references\\capabilities\\anchor-attention-in-body.md": "e8305b17ba48741620078de4093e5522c78d23f354af55ab0344dbecc6efaef9",
+    "references\\capabilities\\audit-thinking.md": "0552b8fcb82803cf8d2b9ab1b9487b073ed986d10393494cf2baa4737b0ac03e",
+    "references\\capabilities\\clarify-direction-through-experiment.md": "7ea138d1b9e91194647e8e22ddc8bc17111f667b861bc0e18bc12c4c31f527a2",
+    "references\\capabilities\\consider-alternative-perspectives.md": "777f4022da6046db21309dbe13bbdfc745af364c1f9448168462530f346f5c0e",
+    "references\\capabilities\\match-challenge-to-skill.md": "984898759a55f1486a73554f2e1c9d938326d95ddbc472e32fa059afa2ea0809",
+    "references\\capabilities\\observe-emotion.md": "1a99c8f745855e1a35abaa611fb4b0d7bdae3b956ef174091201c1a820b590ef",
+    "references\\capabilities\\observe-thought.md": "6e42b42f3932d0cc3eb8720bfc6f11203d404afd7633d75588c21371d157aa9e",
+    "references\\capabilities\\plan-and-review-tasks.md": "7e1eee81e4a96a8261caa1b64e60812fdfbf3809b54dfac340c85b4edbdec0f5",
+    "references\\capabilities\\practice-with-feedback.md": "af29900620ea319dff1fc5d7c3a18264aaf5df2eaaf691c2f85056e631fb3cb9",
+    "references\\capabilities\\recover-from-discouragement.md": "e78752e971f0c646d90630d8686db526d28f676d1b57c6bb6bc23ec130c1bdd0",
+    "references\\capabilities\\reduce-parallel-load.md": "a73d72df65a5b215c5501bd15cfdd0363377895aab1c0b7eb2d62a2e663fca83",
+    "references\\capabilities\\rest-when-focus-drops.md": "b98ac5cba631ba211a7b2144a46d470b5387b4314b33f924688d786f20155354",
+    "references\\capabilities\\return-attention-to-action.md": "6ab79079f61558e67667fb92bcdeac4a76d161a3c244985526b67db2414194f3",
+    "references\\capabilities\\review-and-correct-action.md": "5d9e4ff2e4f081243c8f887bd572d0d34f52d007ad17d8ed4f10f6b1379ab542",
+    "references\\capabilities\\review-choice-needs.md": "ef929782a1887be376318dee8f959bc5adaea2a236b32cfef7615e548ca33c33",
+    "references\\capabilities\\review-life-domains.md": "cc084820a27830deed07bb162df10834b91db9b871f1df1c50701f6ab58457a8",
+    "references\\capabilities\\review-recurring-actions.md": "6a683cb7ba174c1e857a29759ae78d85c0fde259a8a5a0e73899dff594a7593e",
+    "references\\capabilities\\test-knowledge-through-action.md": "c4679670c6fe89ab29756d123dc8e5c1e9c402e543284f18a2d2afc45f877cfb",
+    "references\\capabilities\\use-contribution-as-lens.md": "0119a700526a3ed9045cc3431d075e0bdb64472f53e9ecfbc5d97c14c3cbbba6",
+    "references\\capability-index.md": "c4007dac4fae12db6fc6084a66a385dab3ee7aca25c1960a06e7db552458fa09",
+    "references\\cheatsheet.md": "c68f23a2dd8694d450f2e14436b1856abc5063d00c55e05fb974813a94fb6b49",
+    "references\\glossary.md": "bfd1c865b65ec02c3580317739fdf8d60578ed7886d7fe870a0274fbda367c9f",
+    "references\\overview.md": "3f9c71d4262cce47cbd0bb86c3b66ac86d7e8205014680445ffd927982c79849",
+    "SKILL.md": "1c63b68771789412c5fc45fb45d991c5b5bbce42a95ba12a3bd609b3402e19f9"
+  },
+  "note": "update/重编译前比对 published_hashes；检测到本地手改不得静默覆盖",
+  "bundle_id": "bundle.life-direction-compass",
+  "bundle_sha256": "3df5f4d8bf7cd139abc64342472a4db085fdee82ecfd687ffdd538e807626fb4",
+  "variant": "single",
+  "run_id": "run-20261020-171327-a8bfe3",
+  "decision": {
+    "schema_version": 1,
+    "requested": "single",
+    "selected": "single",
+    "decision_policy": "single-first-v1",
+    "skill_budget": 8,
+    "promoted_count": 5,
+    "capability_count": 20,
+    "reasons": [
+      "用户显式选择 single，auto 决策器不覆盖用户选择"
+    ],
+    "alternative": "compact pack（1 个来源路由入口 + 5 个晋级 Skill，共 6 个可发现入口）",
+    "user_confirmed": true,
+    "preserve_strategy_on_update": true
+  }
+}

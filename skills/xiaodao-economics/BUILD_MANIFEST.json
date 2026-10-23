@@ -1,0 +1,39 @@
+{
+  "tool": "cangjie-tools v2.5.0",
+  "published_hashes": {
+    "references\\capabilities\\credit-bubble-mechanism.md": "693b5506cadeae057f5be92eb9cae1da82154922bd67efc2a48625355c66dc0a",
+    "references\\capabilities\\crisis-reallocation.md": "9030c22373d26094a62a820dd6e694b18b93b363b69512cf03ff4b3d8b883f8b",
+    "references\\capabilities\\investment-cost-benefit.md": "af2dcfdcbd24c1b1e0161b931cb0190c63a98d117946bd864595ff0bd53bc22c",
+    "references\\capabilities\\labor-value-wage.md": "66327309dbed64653463873c5a6d1db8d2e1ade43c726c481a69195210801a02",
+    "references\\capabilities\\loan-purpose-triage.md": "85987406cfc0a9b4cce514d9c3f1ce3faa0234a91575bd59e4a18fa68e6efbc7",
+    "references\\capabilities\\money-price-diagnosis.md": "79293f293bc3b0078b9362b23e988dee13255f60cf3d803def2b789d11c3a627",
+    "references\\capabilities\\productive-capital-growth.md": "c4e1b21abcecb3d1ed9c2528c2262ff0c896ea771ad3efb5f9f79cc0d8143147",
+    "references\\capabilities\\savings-interest-investment.md": "13178d3ef06a63bba54943c992d643e1e387e329a24c777ca12445a8c76cb767",
+    "references\\capabilities\\trade-external-balance.md": "33c050844225cf49716906e57e66bc845918a854eba55d610dcac5d12ae081e7",
+    "references\\capability-index.md": "cd43e37291142d709ffbc1c7e5fb2e32bd253c7010bfe00aec8a0098a6033348",
+    "references\\cheatsheet.md": "580b4a867b2c4f69430ad1198fc5c0f51f8e2ae311d974ded357fb819ef94895",
+    "references\\glossary.md": "e97ad8841bff6fb2dd32b0f9e26f2b4d58f5f6a3213ac58ba0ea29568f406e8c",
+    "references\\overview.md": "a57dbe0de6cd1d5c46409f8c4f45f3e4a34c499bf9b999735bc5a203c073db81",
+    "SKILL.md": "bb3b793b8c99b26581786d63daebb48846cf1179bd76b58309c451a5c29ebbe3"
+  },
+  "note": "update/重编译前比对 published_hashes；检测到本地手改不得静默覆盖",
+  "bundle_id": "bundle.xiaodao-economics",
+  "bundle_sha256": "4cd57c5608f2b4fe69463045919c42acff8808b3bb49c5213d690a24495bf4a2",
+  "variant": "single",
+  "run_id": "run-20261017-195257-c77349",
+  "decision": {
+    "schema_version": 1,
+    "requested": "single",
+    "selected": "single",
+    "decision_policy": "single-first-v1",
+    "skill_budget": 8,
+    "promoted_count": 7,
+    "capability_count": 9,
+    "reasons": [
+      "用户显式选择 single，auto 决策器不覆盖用户选择"
+    ],
+    "alternative": "compact pack（1 个来源路由入口 + 7 个晋级 Skill，共 8 个可发现入口）",
+    "user_confirmed": true,
+    "preserve_strategy_on_update": true
+  }
+}
