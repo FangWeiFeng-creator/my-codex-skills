@@ -1,15 +1,15 @@
 ---
-name: four-book-relationship-compass
+name: psychology-emotional-skill
 description: |
   Use for everyday relationship questions and planning grounded in four source books. 用于亲密关系、沟通、冲突、安全、吸引、约会、承认与影响识别；先核验证据与安全，不保证让某人爱上你，不提供操纵、窥探或绕过拒绝的方法。Triggers: relationship, dating, conflict, communication, consent, manipulation, 亲密关系, 沟通, 冲突, 约会, 同意。
 metadata:
   cangjie.generated-by: cangjie-tools v2.5.0
   cangjie.variant: single
-  cangjie.bundle-id: bundle.four-book-relationship-compass
+  cangjie.bundle-id: bundle.psychology-emotional-skill
   cangjie.capability-count: 14
   cangjie.entrypoint-count: 1
 ---
-# 四书融合关系罗盘 — 全书能力入口
+# 心理学情感技能 — 全书能力入口
 
 ## 触发与不触发
 

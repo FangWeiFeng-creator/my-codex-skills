@@ -16,13 +16,13 @@
     "references\\capabilities\\relationship-type-love-stage.md": "b4e869043fe0b6c15c9731543768a17460f52af63a87c708e107d836467e7e59",
     "references\\capabilities\\validation-self-esteem-plan.md": "f99978055cc91ce9b6c39c3ab94160701b644c3da321ddb22ba8b9e8a345aa54",
     "references\\capability-index.md": "adc4f564d0bd2630373a46609e53b6fb651b7eeb3ee9b2bc96ebf8fba2949fcd",
-    "references\\cheatsheet.md": "f8bfcfa7112998460d0392d1b3a90153050eedf151cfd5fe940704fcc978ceb6",
+    "references\\cheatsheet.md": "14e442d86a5c55b4e34015fc2ef39f514a884e07d0cfde955bc3af2724f0dc8e",
     "references\\glossary.md": "fe22327c0be52d20437258bcdd8d90232a95676493cc4afa90190dc08380d871",
     "references\\overview.md": "21b7d7aae7e494def40d3c9ce8aa937c29d257c17f9d23535b9ae84345f21da1",
-    "SKILL.md": "36daf0db66ad857c7e514e9f842f709bba654a1a5fb0f27d3d1807c9c8f6dce8"
+    "SKILL.md": "58ec713c4fc1e4a58229df8ae203315ce9e2b30b5d05a1e90e5a29c27e52499a"
   },
   "note": "update/重编译前比对 published_hashes；检测到本地手改不得静默覆盖",
-  "bundle_id": "bundle.four-book-relationship-compass",
+  "bundle_id": "bundle.psychology-emotional-skill",
   "bundle_sha256": "4935b071fb808cbc0f362125e76b7b69897b209a2f8fb55380a7bb76bda72c08",
   "variant": "single",
   "run_id": "run-20261017-211236-6d5e2a",
